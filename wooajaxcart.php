@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: WooCommerce AJAX Cart
-Plugin URI: https://wordpress.org/plugins/woocommerce-ajax-cart/
+Plugin Name: WooCommerce AJAX Cart Zarmin
+Plugin URI: https://github.com/zarmin/woocommerce-ajax-cart
 Description: Change the default behavior of WooCommerce Cart page, making AJAX requests when quantity field changes
 Version: 1.2.9
-Author: Moises Heberle, Alex Szilagyi (contributor)
-Author URI: http://codecanyon.net/user/moiseh
+Author: Moises Heberle, Alex Szilagyi (contributor), Zarmin
+Author URI: https://github.com/zarmin/woocommerce-ajax-cart
 Text Domain: woocommerce-ajax-cart
 Domain Path: /i18n/languages/
 WC requires at least: 3.2

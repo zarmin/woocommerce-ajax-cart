@@ -1,5 +1,5 @@
-=== WooCommerce Ajax Cart Plugin ===
-Contributors: moiseh, el.severo
+=== WooCommerce Ajax Cart Zarmin Plugin ===
+Contributors: moiseh, el.severo, zarmin
 Tags: woocommerce, ajax, cart, shipping
 Requires at least: 4.2
 Tested up to: 5.0.1
